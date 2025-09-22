@@ -15,7 +15,7 @@ Este projeto é um script simples em Python que utiliza a biblioteca `requests` 
   <img src="/images/screenshot.png" alt="Exemplo de execução do script">
 </p>
 
-[Development](https://github.com/fabiuniz?tab=repositories) | [Documentação Completa](docs/README.md)
+[Development](https://github.com/fabiuniz?tab=repositories) 
 
 ---
 
